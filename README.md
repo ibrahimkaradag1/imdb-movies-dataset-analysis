@@ -16,7 +16,7 @@ Imdb Project/
 
 ┣ imdb.sqlite ← SQLite database file
 
-┣ IMDb_Dashboard.pbix← Power BI dashboard
+┣ IMDB Movies Dataset Analysis.pbix ← Power BI dashboard
 
 ┣ .venv/ ← Virtual environment (ignored in Git)
 
