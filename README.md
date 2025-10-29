@@ -7,12 +7,19 @@ The goal is to clean, process, and visualize IMDb movie and TV show data.
 ## Project Structure
 
 Imdb Project/
+
 ┣ data/ ← Raw dataset (IMDB.csv)
+
 ┣ src/ ← Python scripts for data processing
+
 ┣ exports/ ← Cleaned datasets ready for visualization
+
 ┣ imdb.sqlite ← SQLite database file
+
 ┣ IMDb_Dashboard.pbix← Power BI dashboard
+
 ┣ .venv/ ← Virtual environment (ignored in Git)
+
 ┗ README.md
 
 
